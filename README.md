@@ -6,8 +6,7 @@ Public mirror of Bantam Tools NextDraw software downloads.
 
 The authoritative download location for NextDraw software is
 [bantam.tools/ndsoft](https://bantam.tools/ndsoft), served from
-`software-download.bantamtools.com`. This repository is a **mirror**, published so
-that the software remains retrievable from an independent, widely-replicated host.
+`software-download.bantamtools.com`. This repository is a **mirror**.
 
 If the two ever disagree, the canonical source is correct.
 
