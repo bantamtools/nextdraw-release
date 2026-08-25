@@ -17,12 +17,12 @@ against, or document.
 | Item | Permalink |
 |---|---|
 | NextDraw Python API & CLI | https://github.com/bantamtools/nextdraw-release/releases/latest/download/nextdraw_api.zip |
-| NextDraw for macOS (installer) | https://github.com/bantamtools/nextdraw-release/releases/latest/download/nextdraw_mac_install.zip |
-| NextDraw for macOS | https://github.com/bantamtools/nextdraw-release/releases/latest/download/nextdraw_mac.zip |
-| NextDraw for Windows (installer) | https://github.com/bantamtools/nextdraw-release/releases/latest/download/nextdraw_win_install.zip |
-| NextDraw for Windows | https://github.com/bantamtools/nextdraw-release/releases/latest/download/nextdraw_win.zip |
-| NextDraw for Linux (x86_64) | https://github.com/bantamtools/nextdraw-release/releases/latest/download/nextdraw_linux_x86.zip |
-| NextDraw for Linux (ARM) | https://github.com/bantamtools/nextdraw-release/releases/latest/download/nextdraw_linux_arm.zip |
+| NextDraw for macOS (installer) | https://github.com/bantamtools/nextdraw-release/releases/latest/download/nextdraw_inkscape_mac_install.zip |
+| NextDraw for macOS | https://github.com/bantamtools/nextdraw-release/releases/latest/download/nextdraw_inkscape_mac.zip |
+| NextDraw for Windows (installer) | https://github.com/bantamtools/nextdraw-release/releases/latest/download/nextdraw_inkscape_win_install.zip |
+| NextDraw for Windows | https://github.com/bantamtools/nextdraw-release/releases/latest/download/nextdraw_inkscape_win.zip |
+| NextDraw for Linux (x86_64) | https://github.com/bantamtools/nextdraw-release/releases/latest/download/nextdraw_inkscape_linux_x86.zip |
+| NextDraw for Linux (ARM) | https://github.com/bantamtools/nextdraw-release/releases/latest/download/nextdraw_inkscape_linux_arm.zip |
 
 <!-- Every item listed here MUST be attached to every release, or its permalink will
      404 as soon as a release omits it. Asset filenames are permanent and must never
