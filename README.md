@@ -40,6 +40,22 @@ single release is a self-contained snapshot of the full distribution.
 
 Browse all releases: https://github.com/bantamtools/nextdraw-release/releases
 
+## Python wheel (nextdrawcore)
+
+Each release also carries the `nextdrawcore` Python wheel, the
+same file found in `nextdraw_api.zip` under `prebuilt_dependencies/`. It is pure Python
+and installs on any supported platform (Python 3.10+); its dependencies come from PyPI.
+
+Unlike the files above, the wheel's filename carries its version, because pip reads the
+version from the filename and rejects a renamed wheel. It therefore has no `latest`
+permalink; install it by tag:
+
+    python3 -m pip install https://github.com/bantamtools/nextdraw-release/releases/download/v1.7.5/nextdrawcore-1.7.5-py3-none-any.whl
+
+or, in a `requirements.txt`:
+
+    nextdrawcore @ https://github.com/bantamtools/nextdraw-release/releases/download/v1.7.5/nextdrawcore-1.7.5-py3-none-any.whl
+
 ## Verifying a download
 
 Each release publishes SHA-256 checksums for its assets in `SHA256SUMS.txt`:
